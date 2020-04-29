@@ -71,7 +71,7 @@
                 </div>  
                 <h2>
                     ferreirafrancisco68
-                    <span>10 horas antes</span>
+                    <span>15 horas antes</span>
                 </h2>          
             </div>
         </div>
